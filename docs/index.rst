@@ -10,6 +10,8 @@ Welcome to ShinxDemo's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   install
+
 
 
 Indices and tables
@@ -18,3 +20,7 @@ Indices and tables
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
+
+Other documentation
+===================
+https://gpuopen.com/
