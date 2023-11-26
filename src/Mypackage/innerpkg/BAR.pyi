@@ -1,4 +1,4 @@
-from Mypackage.innerpkg.FOO import Foo
+from Mypackage import Foo
 
 
 class Bar(Foo):

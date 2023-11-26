@@ -1,8 +1,15 @@
-from Mypackage.innerpkg.BAR import Bar
-from Mypackage.innerpkg.FOO import Foo
+from Mypackage import Bar
+from Mypackage import Foo
 
 class Data:
-    """Data Constants"""
+    """Data Constants
+
+    .. code-block:: python
+
+        from Mypackage.innerpkg.DAT import Dat
+        print(Dat.ONE)
+
+    """
 
     ONE: int
     BAR: Bar
